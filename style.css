@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin: 0px;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+    background-color: black;
+}
+#welcome{
+    background-image: url("Photo_1.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 1000px;
+    width: 100%;
+    margin: 0px;
+    right: 0;
+    padding: 0;
+}
